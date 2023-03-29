@@ -41,31 +41,31 @@ let wibh = moment.tz('Asia/Karachi').format('HH')
 /*============== SOCIAL ==============*/
 
 // if you don't have it, type "-" or leave it alone so that there are credits :v
-global.sig = 'https://instagram.com/itx_ahmad.ali' //Link Instagrammu
-global.sgh = 'https://github.com/xIKRATOSx' //Link Githubmu
-global.sgc = 'https://chat.whatsapp.com/DxIb5oWzpg24mmg9D9zw5Y'
+global.sig = 'https://instagram.com/astroophlty_' //Link Instagrammu
+global.sgh = 'https://github.com/irmabot' //Link Githubmu
+global.sgc = 'https://chat.whatsapp.com/DxIoWzpg24mmg9D9zw5Y'
 global.sdc = '-' //Fill it out using the Discord link, if there is one, just leave it
 global.snh = 'https://nhentai.net/g/HaramTod🗿' //Hmmm, This is up to you to fill in :v
 
 /*============== PAYMENT ==============*/
-global.pdana = '085736178354' //Nomor Danamu
-global.ppulsa = '085736178354' //Nomor SimCard Yang Kamu Pake
+global.pdana = '085393502403' //Nomor Danamu
+global.ppulsa = '0895366943079' //Nomor SimCard Yang Kamu Pake
 global.psaweria = 'https://saweria.com/XiaoYan021' //Link Saweriamu Kalo Nggada Ketik - aja
 
 /*============== NOMOR ==============*/
-global.nomorbot = '68673045381' //Nomor Bot
-global.nomorown = '923470027813' //Nomor Owner
-global.namebot = 'Ikratos-MD-v1' //Nama Bot
-global.nameown = 'ᴀʜᴍᴀᴅ ᴀʟɪ🇵🇰' // Nama Owner
+global.nomorbot = '16565655162' //Nomor Bot
+global.nomorown = '62895366943070' //Nomor Owner
+global.namebot = 'Irma-MD-v1' //Nama Bot
+global.nameown = 'Wibu Irma' // Nama Owner
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //Replace your number with your name
+  ['923470027813', 'Irmaajahh🎐', true] //Replace your number with your name
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
-global.prems = ['923470027813','68673045381','923191089077'] // Premium user is not here to add it, type .addprem @ user 10
+global.prems = ['62895366943070','16565655162','62895366943070'] // Premium user is not here to add it, type .addprem @ user 10
 
 
 global.lolkey = 'apikeymu'
@@ -97,12 +97,12 @@ global.APIKeys = { // APIKey Here
 // The word APIKEY is filled with your own apikey, by buying it on the website
 
 /*============== WATERMARK ==============*/
-global.wm = '「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Ahmad Ali- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = 'ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷'
+global.wm = '「 irma-ᴍᴅ-ᴠ𝟷 」' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘Irmayana- ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = 'irma-ᴍᴅ-ᴠ𝟷'
 global.botdate = `⫹⫺ Date: ${week} ${date}`
 global.bottime = `Time : ${wktuwib}`
-global.titlebot = '🎋 ┊ ɪᴋʀᴀᴛᴏs ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
+global.titlebot = '🎋 ┊ irmayx ʙᴏᴛ ᴡʜᴀᴛsᴀᴘᴘ'
 global.author = global.wm
 global.logo = 'https://i.ibb.co/cc8jfkX/01.jpg'
 
@@ -130,7 +130,7 @@ global.wait = '```「▰▰▰▱▱▱▱▱▱▱」Loading...```'
 global.eror = '```404 error```'
 global.dtu = 'ɪɴꜱᴛᴀɢʀᴀᴍ'
 global.dtc = 'ᴄᴀʟʟ ᴏᴡɴᴇʀ'
-global.phn = '+92 347 0027813'
+global.phn = '+1 (656) 5655162'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
@@ -173,7 +173,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 global.stickpack = 'x_ikratos_x'
 global.stickauth = `「 ɪᴋʀᴀᴛᴏs-ᴍᴅ-ᴠ𝟷 」`
 global.packname = 'Cʀᴇᴀᴛᴇᴅ Bʏ'
-global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ ɪᴋʀᴀᴛᴏs'
+global.packname2 = 'ᴄʀᴇᴀᴛᴇᴅ ʙʏ irma'
 
 global.multiplier = 38 // The higher, The harder levelup
 
